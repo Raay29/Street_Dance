@@ -40,9 +40,11 @@ header {
   float: right;
   margin: 20px;
 }
-header li {
+header a {
   float: left;
   margin-top: 20px;
   margin-bottom: 20px;
   margin-right: 35px;
+  display: block;
+  background-color: rgba(white, 0.5);
 }
