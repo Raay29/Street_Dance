@@ -17,13 +17,16 @@ header {
   height: 90px;
   background-color: #FFC07A;
   color: white;
+  width: 1150px
 }
-header-left {
+.header-left {
   float: left;
 }
-header-right {
+.header-right {
   float: left;
   margin: 20px;
 }
+.header-icon {
+  height: 90px
+}
 
-  
