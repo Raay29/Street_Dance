@@ -41,11 +41,11 @@ header {
   margin: 20px;
 }
 header a {
+  display: inline-block;  
   float: left;
   height: 65px;
   text-align: center;
   margin-right: 35px;
-  display: block;
   background-color: white;
   opacity: 0.6;
 }
