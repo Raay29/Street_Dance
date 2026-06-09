@@ -13,19 +13,32 @@ body {
 li {
   list-style: none;
 }
-header {
-  height: 90px;
-  background-color: #FFC07A;
-  color: white;
-  width: 1150px
+
+.container {
+  width: 1170px;
+  margin: 0 auto;
 }
+
+header {
+  height: 65px;
+  width: 100%;
+  background-color: rgba(255, 192, 122, 0.9);
+  position: fixed;
+  top: 0;
+  z-index: 10;
+}
+
+.header-icon {
+  width: 124px;
+  margin-top: 20px;
+}
+
 .header-left {
   float: left;
-  height: 90px;
-  widht: 90px;
 }
+
 .header-right {
-  float: left;
+  float: right;
   margin: 20px;
 }
 
