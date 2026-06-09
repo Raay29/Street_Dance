@@ -38,8 +38,9 @@ header {
 }
 
 .header-right {
-  float: right;
+  float: left;
   margin: 20px;
+  display: inline-block;
 }
 
 
