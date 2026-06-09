@@ -42,9 +42,10 @@ header {
 }
 header a {
   float: left;
-  margin-top: 20px;
-  margin-bottom: 20px;
+  height: 65px;
+  text-align: center;
   margin-right: 35px;
   display: block;
-  background-color: rgba(white, 0.5);
+  background-color: white;
+  opacity: 0.6;
 }
