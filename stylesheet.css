@@ -42,7 +42,7 @@ header {
 }
 header li {
   float: left;
-  padding-top: 20px;
-  padding-bottom: 20px;
-  padding-right: 35px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  margin-right: 35px;
 }
