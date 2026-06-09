@@ -37,9 +37,12 @@ header {
 }
 
 .header-right {
-  float: left;
+  float: right;
   margin: 20px;
 }
 header li {
   float: left;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  padding-right: 35px;
 }
